@@ -1,3 +1,8 @@
+# OptiSwim2
+
+This project is still in very early stage. The only interesting parts might be the data sets, found in /data.
+
+
 # Weather data
 Source: Zippenfenig, P. (2023). Open-Meteo.com Weather API [Computer software]. Zenodo. https://doi.org/10.5281/ZENODO.7970649
 
